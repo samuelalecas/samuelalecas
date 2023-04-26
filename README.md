@@ -1,14 +1,15 @@
-🇬🇧 Hello, hello! 👋
+# 🇬🇧 Hello, hello! 👋
 
-I'm Samuel Alegre, a FullStack apprentice currently working for the Ayuntamiento de Cáceres. 🏛️ Graduated in Design and Digital Creation 🎓, passionate about web development and constantly learning. 💻📚
+I'm **Samuel Alegre**, a FullStack apprentice currently working for the Ayuntamiento de Cáceres. 🏛️ Graduated in Design and Digital Creation 🎓, passionate about web development and constantly learning. 💻📚
 
-🔧 Technical Skills:
+### 🔧 Technical Skills:
 
     HTML 💻
     CSS 🎨
     JavaScript 🚀
     Java ☕
     MySQL 🗄️
+
 
 📚 Currently in the process of learning React, Angular, and Spring Boot to expand my knowledge and improve my skills. 💪
 
@@ -16,19 +17,20 @@ I'm Samuel Alegre, a FullStack apprentice currently working for the Ayuntamiento
 
 Thanks for visiting my profile! If you have any questions or collaboration opportunities in mind, feel free to contact me. I'll be glad to work together on exciting projects. 🤝
 
------------------------------------------------------------
 
-🇪🇸 ¡Hola, hola! 👋
 
-Soy Samuel Alegre, un aprendiz de FullStack actualmente trabajando para el Ayuntamiento de Cáceres. 🏛️ Graduado en Diseño y Creación Digital 🎓, apasionado por el desarrollo web y en constante aprendizaje. 💻📚
+# 🇪🇸 ¡Hola, hola! 👋
 
-🔧 Habilidades técnicas:
+Soy **Samuel Alegre**, un aprendiz de FullStack actualmente trabajando para el Ayuntamiento de Cáceres. 🏛️ Graduado en Diseño y Creación Digital 🎓, apasionado por el desarrollo web y en constante aprendizaje. 💻📚
+
+### 🔧 Habilidades técnicas:
 
     HTML 💻
     CSS 🎨
     JavaScript 🚀
     Java ☕
     MySQL 🗄️
+
 
 📚 Pendiente de formarme en React, Angular y Spring Boot para ampliar mis conocimientos y mejorar mis habilidades. 💪
 
